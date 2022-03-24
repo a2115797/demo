@@ -1,0 +1,4 @@
+/*可以在这里添加你自己的css*/
+img{max-width:500px;}
+.wxDiy{padding:0 5px;border:1px dashed transparent;}
+.wxDiy.cur{border-color:#f60}
